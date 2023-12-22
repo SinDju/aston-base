@@ -1,0 +1,13 @@
+package com.iglaz.astonbase.lesson6.io.homework;
+
+import java.util.Objects;
+
+public class UserDemo {
+    private String name;
+    private int age;
+    private String email;
+
+    private void say() {
+        System.out.println("Hello!");
+    }
+}
